@@ -1,0 +1,16 @@
+Projenin çalıştırılabilmesi için gerekli olan programlar?
+Visiual Studio 2017 ve MSSQL18
+
+Kullanıcı Adı : admin
+Şifre : 1234    
+ile giriş yapılabilir.
+
+Kayıt ol butonuna tıklanarak yeni bir kullanıcı kaydı yapılabilir.
+Giriş yapıldıktan sonra yapılmak istenen işlem seçilir.
+Otobüs işlemleri kısmından otobüs bilgileri görüntülenebilir ve yeni otobüs bilgileri kayıt edip 
+eski otobüs bilgileri silip / güncellenebilir.
+Aynı şekilde sefer işlemleri kısmından sefer ile ilgili aynı işlemler gerçekleştirilebilir.
+Rezervasyon işlemlerinden istenilen sefer seçimi yapılıp müşteri bilgileri ve koltuk bilgisi
+girilerek rezervasyon yapılabilir.
+Satılan biletler kısmından rezervasyonu yapılmış biletler görüntülenip bilgiler üzerinde
+güncelleme yapılabilir yada silinebilir.
