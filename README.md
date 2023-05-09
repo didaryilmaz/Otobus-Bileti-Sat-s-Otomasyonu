@@ -12,7 +12,6 @@ https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/07
 
 <img width="354" alt="Yonetici Sayfasi" src="https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyon
 
-https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/00acda66-c909-4b33-9600-94cda3057405
 
 u/assets/91085429/308ffc3c-8db1-434b-ba14-bf0c22d82ff2">
 <img width="407" alt="Otobus Islemleri" src="https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/20a05347-89c0-4bf0-b18b-2432fe39517c">
