@@ -7,7 +7,8 @@ https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/86
 <img width="272" alt="Kullanici Giris" src="https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/0bc32cc3-e179-44a9-8bcb-ccb29aae1e70">
 <img width="211" alt="Firma Kaydi" src="https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/b265f593-2161-425c-a179-e191a09eb799">
 
-https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/077634c3-521d-48ec-923b-52124a1f6814
+https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/077634c3-521d-48ec-923b-52124a1f6814<img width="354" alt="Yonetici Sayfasi" src="https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/996bc04c-9d08-47a4-a01a-4f35469cc0a0">
+
 
 
 <img width="354" alt="Yonetici Sayfasi" src="https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyon
