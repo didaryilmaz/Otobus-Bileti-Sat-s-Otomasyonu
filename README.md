@@ -1,10 +1,6 @@
 # Otobus-Bileti-Sat-s-Otomasyonu
 bilet satıs sistemi
 
-https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/86290a4e-5e2f-4c06-99e0-33d6977af5c8
-
-
-
 <img width="272" alt="Kullanici Giris" src="https://github.com/didaryilmaz/Otobus-Bileti-Sat-s-Otomasyonu/assets/91085429/57546133-e401-4b2b-952f-61fd6759fe63">
 
 
